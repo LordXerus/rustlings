@@ -9,6 +9,7 @@
 // I AM NOT DONE
 
 fn main() {
+    let mut x = 0;
     x = 5;
     println!("x has the value {}", x);
 }
